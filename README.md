@@ -146,7 +146,7 @@ You can deploy the backend to platforms like Heroku, Railway, or Render.
 
 1. Create a new app on your chosen platform
 2. Connect your GitHub repository
-3. Set environment variables (MONGODB_URI)
+3. Set environment variables (MONGO_DB_URL)
 4. Deploy the application
 
 ### Frontend Deployment
