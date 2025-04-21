@@ -1,4 +1,3 @@
-// server/controllers/todoController.js
 const Todo = require("../models/Todo");
 
 // Create a new todo
